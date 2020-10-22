@@ -1,7 +1,7 @@
-> Javascript test game using Phaser 3
+# Javascript test game using Phaser 3
 
-# Collect Gems to get a highscore.
+> Collect Gems to get a highscore.
 
-# Bombs appear each time all the Gems are collected.
+> Bombs appear each time all the Gems are collected.
 
-# Avoid the bombs.
+> Avoid the bombs.
